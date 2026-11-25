@@ -1,0 +1,20 @@
+# .NET / Visual Studio / VS Code
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+
+# ملفات تجربة الـ API (هيتجاهل SnartLightingDigitalTwinApi.http وأي ملف http تاني)
+*.http
+
+# React / Vite / Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
